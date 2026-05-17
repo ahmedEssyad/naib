@@ -2,10 +2,18 @@
 output/
 chroma_db/
 
+# secrets
+.env
+
 # python
 .venv/
 __pycache__/
 *.pyc
+
+# next.js / node frontend (web/)
+web/node_modules/
+web/.next/
+web/.env.local
 
 # macOS
 .DS_Store

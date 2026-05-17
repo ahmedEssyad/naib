@@ -1,0 +1,9 @@
+qdrant-client>=1.9
+openai>=1.40
+python-dotenv>=1.0
+tiktoken>=0.7
+
+# Voice agent (LiveKit)
+livekit-agents>=0.11
+livekit-plugins-openai>=0.10
+livekit-plugins-silero>=0.7

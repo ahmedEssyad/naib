@@ -1,0 +1,21 @@
+# Xcode build output
+build/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+
+# User-specific Xcode state
+xcuserdata/
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Packages/
+Package.resolved
+
+# macOS
+.DS_Store
+
+# Secrets — never commit API keys
+# (App.swift currently has a hardcoded key for the demo; rotate after.)

@@ -1,0 +1,127 @@
+{
+  "domain": "creation_entreprise",
+  "language": "ar",
+  "description": "أسئلة صوتية واقعية من مواطنين / مقاولين موريتانيين. لكل عنصر السؤال (عربي، مع تبادل اللغات كما يحدث في مكالمة هاتفية)، والملفات المتوقع استرجاعها، والحقائق الرئيسية التي يجب أن تتضمنها الإجابة.",
+  "items": [
+    {
+      "id": "q01",
+      "question": "كم تستغرق المدة لإنشاء مؤسسة ؟",
+      "expected_files": ["01_apim_apercu.md", "07_faq.md", "09_portal_summary.md"],
+      "must_contain": ["48 ساعة", "عمل", "ملف كامل"]
+    },
+    {
+      "id": "q02",
+      "question": "بكم تكلفني إنشاء SARL ؟",
+      "expected_files": ["03_personne_morale.md", "07_faq.md", "01_apim_apercu.md"],
+      "must_contain": ["500", "أوقية", "مجانية", "mobile banking", "كتابة الضبط"]
+    },
+    {
+      "id": "q03",
+      "question": "ما هي الوثائق المطلوبة لفتح مؤسسة فردية ؟",
+      "expected_files": ["02_personne_physique.md", "06_documents_universels.md"],
+      "must_contain": ["الاستمارة الموحدة", "بطاقة هوية", "سند الملكية", "فاتورة كهرباء", "شهادة فتح", "حساب بنكي"]
+    },
+    {
+      "id": "q04",
+      "question": "هل يمكنني إنشاء شركتي عبر الإنترنت ؟",
+      "expected_files": ["07_faq.md", "01_apim_apercu.md", "08_contact_pratique.md"],
+      "must_contain": ["Khidmaty", "منصة", "الإنترنت"]
+    },
+    {
+      "id": "q05",
+      "question": "أنا أجنبي، هل يمكنني فتح مؤسسة في موريتانيا ؟",
+      "expected_files": ["07_faq.md", "02_personne_physique.md"],
+      "must_contain": ["جواز السفر", "بطاقة الإقامة", "نفس الحقوق", "عقد الزواج"]
+    },
+    {
+      "id": "q06",
+      "question": "ما الفرق بين SARL والمؤسسة الفردية ؟",
+      "expected_files": ["02_personne_physique.md", "03_personne_morale.md", "01_apim_apercu.md"],
+      "must_contain": ["شخصية اعتبارية", "مسؤولية", "رأسمال", "شريك"]
+    },
+    {
+      "id": "q07",
+      "question": "ما هو الحد الأدنى للرأسمال لـ SARL ؟",
+      "expected_files": ["03_personne_morale.md", "07_faq.md"],
+      "must_contain": ["10,000", "أوقية", "تحرير", "شهادة"]
+    },
+    {
+      "id": "q08",
+      "question": "أين يقع الشباك الموحد لـ APIM ؟",
+      "expected_files": ["08_contact_pratique.md"],
+      "must_contain": ["شارع المختار ولد داداه", "تفرغ زينه", "نواكشوط"]
+    },
+    {
+      "id": "q09",
+      "question": "ما هو رقم هاتف APIM ؟",
+      "expected_files": ["08_contact_pratique.md", "09_portal_summary.md"],
+      "must_contain": ["+222 38", "info-apim@apim.gov.mr"]
+    },
+    {
+      "id": "q10",
+      "question": "هل يمكنني الدفع نقداً في الشباك ؟",
+      "expected_files": ["07_faq.md", "08_contact_pratique.md"],
+      "must_contain": ["mobile banking", "لا", "حساب"]
+    },
+    {
+      "id": "q11",
+      "question": "أريد فتح فرع لشركتي الفرنسية في نواكشوط. ماذا يلزم ؟",
+      "expected_files": ["05_succursale.md"],
+      "must_contain": ["الشركة الأم", "مستخرج", "السجل التجاري", "قوانين", "قرار", "مدير"]
+    },
+    {
+      "id": "q12",
+      "question": "ما هو GIE ؟",
+      "expected_files": ["04_gie.md", "01_apim_apercu.md"],
+      "must_contain": ["مجموعة المصلحة الاقتصادية", "أشخاص طبيعيين أو معنويين", "مساعد", "أعضاء"]
+    },
+    {
+      "id": "q13",
+      "question": "هل يمكنني تحويل أرباحي إلى الخارج ؟",
+      "expected_files": ["07_faq.md"],
+      "must_contain": ["تحويل", "الضرائب", "تنظيم الصرف"]
+    },
+    {
+      "id": "q14",
+      "question": "هل يجب أن يكون لدي مكتب مادي ؟",
+      "expected_files": ["07_faq.md", "06_documents_universels.md"],
+      "must_contain": ["نعم", "عنوان", "إلزامي", "سند الملكية", "إيجار"]
+    },
+    {
+      "id": "q15",
+      "question": "هل يمكن لـ APIM صياغة قوانين شركتي ؟",
+      "expected_files": ["07_faq.md", "03_personne_morale.md"],
+      "must_contain": ["لا", "مكتب", "محامي", "مستقل"]
+    },
+    {
+      "id": "q16",
+      "question": "نشاطي هو النقل. هل هناك شيء خاص ؟",
+      "expected_files": ["06_documents_universels.md", "07_faq.md"],
+      "must_contain": ["ترخيص إداري", "مسبق", "وزارة", "منظم"]
+    },
+    {
+      "id": "q17",
+      "question": "ماذا يفعل الشباك الموحد لي بالضبط ؟",
+      "expected_files": ["01_apim_apercu.md", "07_faq.md"],
+      "must_contain": ["السجل التجاري", "التسجيل الضريبي", "الضمان الاجتماعي", "CNSS", "DGI"]
+    },
+    {
+      "id": "q18",
+      "question": "ما هي القوانين التي تنظم إنشاء المؤسسات ؟",
+      "expected_files": ["09_portal_summary.md", "02_personne_physique.md", "03_personne_morale.md"],
+      "must_contain": ["المرسوم رقم 2022-169", "القانون رقم 2021-005", "مدونة التجارة", "المدونة العامة للضرائب"]
+    },
+    {
+      "id": "q19",
+      "question": "ما هي الوثائق لـ SARL برأسمال 50,000 أوقية ؟",
+      "expected_files": ["03_personne_morale.md"],
+      "must_contain": ["قوانين", "شهادة إيداع", "رأسمال", "10,000", "تحرير"]
+    },
+    {
+      "id": "q20",
+      "question": "أريد إنشاء GIE بين ثلاث شركات. ما هي الوثائق ؟",
+      "expected_files": ["04_gie.md"],
+      "must_contain": ["عقد المجموعة", "مستخرجات السجل التجاري", "قوانين الأعضاء", "قائمة مصادق عليها", "مديرين"]
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-TOPIC: connexion somelec
-VARIANT: placeholder
-PROCEDURE: connexion somelec
-STATUS: placeholder
-NOTE: SOMELEC electricity-connection procedures are not published on procedures.gov.mr. Verified by probing the portal search for 'somelec', 'electricite', 'electrique', 'branchement', 'raccordement', 'compteur', 'abonnement' — none returns an electricity-utility fiche. Source must be somelec.mr or a counter visit.
-SOURCE_URL: n/a
-DATE_SCRAPED: 2026-05-17
-# Needs manual entry from outside the procedures.gov.mr portal.

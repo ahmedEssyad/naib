@@ -1,0 +1,19 @@
+# scraping artefacts (regenerable from scripts)
+output/
+chroma_db/
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# scratch
+*.html
+*.pdf
+homepage*.html
+proc*.html
+search*.html
+/tmp/

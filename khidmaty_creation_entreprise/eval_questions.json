@@ -1,0 +1,126 @@
+{
+  "domain": "creation_entreprise",
+  "description": "Realistic voice queries from Mauritanian citizens/entrepreneurs. Each item has the question (FR, with code-switching as it would come out of a phone call), the expected source file(s) that should be retrieved, and the key facts the answer must contain. Use this set to benchmark retrieval quality.",
+  "items": [
+    {
+      "id": "q01",
+      "question": "Combien de temps ça prend pour créer une entreprise ?",
+      "expected_files": ["01_apim_apercu.md", "07_faq.md", "09_portal_summary.md"],
+      "must_contain": ["48 heures", "ouvrables", "dossier complet"]
+    },
+    {
+      "id": "q02",
+      "question": "Combien ça coûte de créer une SARL ?",
+      "expected_files": ["03_personne_morale.md", "07_faq.md", "01_apim_apercu.md"],
+      "must_contain": ["500 MRU", "gratuit", "mobile banking", "greffe"]
+    },
+    {
+      "id": "q03",
+      "question": "Quels documents je dois apporter pour ouvrir une entreprise individuelle ?",
+      "expected_files": ["02_personne_physique.md", "06_documents_universels.md"],
+      "must_contain": ["formulaire unique", "carte d'identité", "titre de propriété", "facture d'électricité", "certificat d'ouverture", "compte bancaire"]
+    },
+    {
+      "id": "q04",
+      "question": "Est-ce que je peux créer ma société en ligne ?",
+      "expected_files": ["07_faq.md", "01_apim_apercu.md", "08_contact_pratique.md"],
+      "must_contain": ["Khidmaty", "plateforme", "ligne"]
+    },
+    {
+      "id": "q05",
+      "question": "Je suis étranger, est-ce que je peux ouvrir une entreprise en Mauritanie ?",
+      "expected_files": ["07_faq.md", "02_personne_physique.md"],
+      "must_contain": ["passeport", "carte de résidence", "mêmes droits", "acte de mariage"]
+    },
+    {
+      "id": "q06",
+      "question": "Quelle est la différence entre une SARL et une entreprise individuelle ?",
+      "expected_files": ["02_personne_physique.md", "03_personne_morale.md", "01_apim_apercu.md"],
+      "must_contain": ["personnalité juridique", "responsabilité", "capital", "associé"]
+    },
+    {
+      "id": "q07",
+      "question": "Il faut quel capital minimum pour une SARL ?",
+      "expected_files": ["03_personne_morale.md", "07_faq.md"],
+      "must_contain": ["10 000 MRU", "libération", "attestation"]
+    },
+    {
+      "id": "q08",
+      "question": "Où se trouve le Guichet Unique de l'APIM ?",
+      "expected_files": ["08_contact_pratique.md"],
+      "must_contain": ["Avenue Mokhtar Ould Daddah", "Tevragh Zeina", "Nouakchott"]
+    },
+    {
+      "id": "q09",
+      "question": "Quel est le numéro de téléphone de l'APIM ?",
+      "expected_files": ["08_contact_pratique.md", "09_portal_summary.md"],
+      "must_contain": ["+222 38", "info-apim@apim.gov.mr"]
+    },
+    {
+      "id": "q10",
+      "question": "Est-ce que je peux payer les frais en espèces au guichet ?",
+      "expected_files": ["07_faq.md", "08_contact_pratique.md"],
+      "must_contain": ["mobile banking", "non", "compte"]
+    },
+    {
+      "id": "q11",
+      "question": "Je veux ouvrir une succursale de ma société française à Nouakchott. Que faut-il ?",
+      "expected_files": ["05_succursale.md"],
+      "must_contain": ["société mère", "extrait", "registre de commerce", "statuts", "décision", "directeur"]
+    },
+    {
+      "id": "q12",
+      "question": "C'est quoi un GIE ?",
+      "expected_files": ["04_gie.md", "01_apim_apercu.md"],
+      "must_contain": ["Groupement d'Intérêt Économique", "personnes physiques ou morales", "auxiliaire", "membres"]
+    },
+    {
+      "id": "q13",
+      "question": "Est-ce que je peux rapatrier mes bénéfices à l'étranger ?",
+      "expected_files": ["07_faq.md"],
+      "must_contain": ["rapatrier", "taxes", "réglementation des changes"]
+    },
+    {
+      "id": "q14",
+      "question": "Est-ce que je dois avoir un bureau physique ?",
+      "expected_files": ["07_faq.md", "06_documents_universels.md"],
+      "must_contain": ["oui", "adresse", "obligatoire", "titre de propriété", "bail"]
+    },
+    {
+      "id": "q15",
+      "question": "L'APIM peut-elle rédiger mes statuts pour moi ?",
+      "expected_files": ["07_faq.md", "03_personne_morale.md"],
+      "must_contain": ["non", "cabinet", "avocat", "indépendant"]
+    },
+    {
+      "id": "q16",
+      "question": "Mon activité c'est le transport. Y a-t-il quelque chose de spécial ?",
+      "expected_files": ["06_documents_universels.md", "07_faq.md"],
+      "must_contain": ["autorisation administrative", "préalable", "ministère", "réglementée"]
+    },
+    {
+      "id": "q17",
+      "question": "Qu'est-ce que le Guichet Unique fait pour moi exactement ?",
+      "expected_files": ["01_apim_apercu.md", "07_faq.md"],
+      "must_contain": ["Registre du Commerce", "Immatriculation fiscale", "Sécurité Sociale", "CNSS", "DGI"]
+    },
+    {
+      "id": "q18",
+      "question": "Quelles lois encadrent la création d'entreprise ?",
+      "expected_files": ["09_portal_summary.md", "02_personne_physique.md", "03_personne_morale.md"],
+      "must_contain": ["Décret n°2022-169", "Loi n°2021-005", "Code du Commerce", "Code Général des Impôts"]
+    },
+    {
+      "id": "q19",
+      "question": "Quels documents pour une SARL avec capital de 50 000 MRU ?",
+      "expected_files": ["03_personne_morale.md"],
+      "must_contain": ["statuts", "attestation de dépôt", "capital", "10 000 MRU", "libération"]
+    },
+    {
+      "id": "q20",
+      "question": "Je veux créer un GIE entre trois sociétés. Quels documents ?",
+      "expected_files": ["04_gie.md"],
+      "must_contain": ["contrat de groupement", "extraits du registre de commerce", "statuts des membres", "liste certifiée", "dirigeants"]
+    }
+  ]
+}

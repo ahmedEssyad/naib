@@ -1,0 +1,17 @@
+TOPIC: extrait de naissance
+VARIANT: statut_personnel
+PROCEDURE: Statut personnel ( naissance ; décès ; mariage ; divorce ; héritage ; autorisation parentale…)
+PROCEDURE_AR: Statut personnel ( naissance ; décès ; mariage ; divorce ; héritage ; autorisation parentale…)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/264 sont identiques au français)
+DOCUMENTS_REQUIS: Demande manuscrite
+Pièces justificatives
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Suivant le jugement
+BUREAU_RESPONSABLE: Tribunaux des Moughataa et chambres civiles des tribunaux des chefs lieux des Wilayas à l'exception de Nouakchott | Réception : Les Greffes des Tribunaux des Moughataas et Chambres Civiles des Tribunaux des Wilayas | Traitement : Tribunaux des Moughataas et Chambres Civiles des Tribunaux des chefs lieux des Wilayas excepté Nouakchott | Délivrance : Les Greffiers des Tribunaux des Moughataas et Chambres Civiles des Tribunaux des Wilayas
+FRAIS: Gratuit sous réserve des droits des timbres des émoluments des auxiliaires de la justice et frais effectués pour instruction des affaires
+USAGERS: Citoyens
+CONTACT: contact@justice.gov.mr
+BASES_JURIDIQUES: - L'ordonnance n° 012.07 du 8 février 2007 portant organisation judiciaire.
+- Loi n° 035.99 du 24 juillet 1999 modifiée et complétée par l'ordonnance n° 035.07 du10 Avril 2007 portant code de procédure civile commerciale et administrative
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/264
+DATE_SCRAPED: 2026-05-17

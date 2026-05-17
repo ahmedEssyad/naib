@@ -1,0 +1,17 @@
+TOPIC: extrait de naissance
+VARIANT: declaration_naissance
+PROCEDURE: Declaration de naissance
+PROCEDURE_AR: Declaration de naissance  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1704 sont identiques au français)
+DOCUMENTS_REQUIS: 
+  - Un extrait du registre des naissances délivré par l'établissement de santé public ou privé où a eu l'accouchement.
+  - Un extrait de l'acte de mariage du père et de la mère de l'enfant.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du registre de la population et des titres sécurisés | Réception : Centre d’Accueil des Citoyens (CAC) du lieu de naissance de l’enfant ou du lieu de résidence de ses parents. | Délivrance : Centre d’accueil des citoyens (CAC) du lieu de naissance de l’enfant ou du lieu de résidence de ses parents.
+FRAIS: Gratuite.
+USAGERS: Citoyens
+CONTACT: 46190022 anrpts.gov.mr
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1704
+DATE_SCRAPED: 2026-05-17

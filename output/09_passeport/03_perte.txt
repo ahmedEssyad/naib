@@ -1,0 +1,15 @@
+TOPIC: passeport
+VARIANT: perte
+PROCEDURE: Demande de remplacement d'un passeport en cas de perte (Titres sécurisés)
+PROCEDURE_AR: Demande de remplacement d'un passeport en cas de perte (Titres sécurisés)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1585 sont identiques au français)
+DOCUMENTS_REQUIS: En cas de perte, présenter une déclaration de perte délivrée par les autorités compétentes et fournir le numéro national de l'intéressé.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés | Réception : Centre d'accueil des citoyens. | Délivrance : Centre d'accueil des citoyens.
+FRAIS: Frais payables pour le passeport ordinaire : pour la première fois 4.000 MRU, pour la deuxième fois 5.500 MRU, pour la troisième fois 7.000 MRU, pour la quatrième fois 10.000 MRU.-Frais dus pour le passeport VIP : pour la première fois 12.000 MRU, pour la deuxième fois 15.000 MRU, pour la troisième fois 17.500 MRU, pour la quatrième fois 20.000 MRU.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1585
+DATE_SCRAPED: 2026-05-17

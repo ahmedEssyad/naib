@@ -1,0 +1,18 @@
+TOPIC: extrait de naissance
+VARIANT: certificat_naissance
+PROCEDURE: Certificat de naissance
+PROCEDURE_AR: Certificat de naissance  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1628 sont identiques au français)
+DOCUMENTS_REQUIS: Reçu de césarienne ou reçu d'accouchement
+Pièce d'identité du père
+Piece d'identite de la mère
+numero de registre
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: l'immédiat
+BUREAU_RESPONSABLE: Service de la maternite | Réception : Service maternite | Traitement : Bureau des entrées | Délivrance : Service maternite
+FRAIS: 0 MRU
+USAGERS: Patient
+CONTACT: contact@sante.gov.mr
+BASES_JURIDIQUES: 
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1628
+DATE_SCRAPED: 2026-05-17

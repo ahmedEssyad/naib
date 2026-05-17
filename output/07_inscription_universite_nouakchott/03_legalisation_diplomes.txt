@@ -1,0 +1,16 @@
+TOPIC: inscription universite nouakchott
+VARIANT: legalisation_diplomes
+PROCEDURE: Légalisation des diplômes
+PROCEDURE_AR: Légalisation des diplômes  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/51 sont identiques au français)
+DOCUMENTS_REQUIS: Présentation de l’original
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Un jour
+BUREAU_RESPONSABLE: Ministère de l’Enseignement Supérieur et de la Recherche Scientifique | Réception : non spécifié | Traitement : non spécifié | Délivrance : non spécifié
+FRAIS: non spécifié
+USAGERS: Particuliers
+CONTACT: 36441886 / 36393904
+contact@mesrs.gov.mr
+BASES_JURIDIQUES: non spécifié
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/51
+DATE_SCRAPED: 2026-05-17

@@ -1,0 +1,19 @@
+TOPIC: registre de commerce
+VARIANT: inscription
+PROCEDURE: Registre de Commerce
+PROCEDURE_AR: Registre de Commerce  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/265 sont identiques au français)
+DOCUMENTS_REQUIS: Demande manuscrite
+copie de la pièce d'identité
+Spécification du domaine d'activités (commerçant sociétés entreprise…)
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Suivant le jugement
+BUREAU_RESPONSABLE: - Tribunaux de Nouakchott et de Nouadhibou
+- chambres de commerces des wilayas | Réception : Les Greffes des Tribunaux de Commerce et Greffes des Chambres de commerce des Tribunaux des Wilayas | Traitement : Tribunaux de commerce (Nouakchott et Nouadhibou) et Chambres Commerce des Tribunaux des Wilayas | Délivrance : Les Greffes des Tribunaux de Commerce et Greffiers des Chambres de commerce des Tribunaux des Wilayas
+FRAIS: Gratuit sous réserve des droits des timbres des émoluments des auxiliaires de la justice et frais effectués pour instruction des affaires
+USAGERS: Professionnels
+CONTACT: contact@justice.gov.mr
+BASES_JURIDIQUES: - L'ordonnance n° 012.07 du 8 février 2007 portant organisation judiciaire.
+- Loi n° 035.99 du 24 juillet 1999 modifiée et complétée par l'ordonnance n° 035.07 du10 Avril 2007 portant code de procédure civile commerciale et administrative
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/265
+DATE_SCRAPED: 2026-05-17

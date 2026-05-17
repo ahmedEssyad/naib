@@ -1,0 +1,21 @@
+TOPIC: extrait de naissance
+VARIANT: approbation_acte_etranger
+PROCEDURE: Approbation d’un acte de naissance délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)
+PROCEDURE_AR: Approbation d’un acte de naissance délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1204 sont identiques au français)
+DOCUMENTS_REQUIS: 
+  - L’adoption d’un acte de naissance délivré par un pays étranger est soumise aux procédures suivantes :
+  - Se rendre au centre d’accueil des citoyens le plus proche afin d’enroler un enfant né à l’étranger ;
+  - Présentation de l’original de l’acte de naissance délivré à l’enfant par les autorités du pays dans lequel il est né ;
+  - Présentation d’un extrait d'acte de mariage biométrique en cours de validité por les parents de l’enfant.
+  - Après instruction et approbation de la demande, les données biométriques de la personne concernée sont prises en compte pour l’obtention d’un numéro national d’identification .
+  - Après l’achèvement de l’instruction du dossier, l’original de l'acte de l’enfant est rendu au déclarant au niveau du centre.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés | Réception : Centre d'accueil des citoyens. | Délivrance : Centre d'accueil des citoyens.
+FRAIS: Gratuite.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1204
+DATE_SCRAPED: 2026-05-17

@@ -1,0 +1,17 @@
+TOPIC: passeport
+VARIANT: renouvellement
+PROCEDURE: Demande de renouvellement de passeport (Titres sécurisés)
+PROCEDURE_AR: Demande de renouvellement de passeport (Titres sécurisés)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1589 sont identiques au français)
+DOCUMENTS_REQUIS: 
+  - Présenter le numéro national de la personne concernée
+  - Soumettre la demande par le représentant légal si la demande concerne un mineur
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés | Réception : Centre d'accueil des citoyens. | Délivrance : Centre d'accueil des citoyens.
+FRAIS: 3000 MRU pour le passeport ordinaire et 10 000 MRU pour un passeport de 64 pages.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1589
+DATE_SCRAPED: 2026-05-17

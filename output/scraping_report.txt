@@ -1,0 +1,50 @@
+Khidmaty Voice — Scraping Report
+========================================
+Date: 2026-05-17
+Source: https://procedures.gov.mr
+Method: requests + BeautifulSoup (server-rendered HTML).
+Coverage: every relevant fiche per topic (not just the headline variant).
+Topics: 10  |  Fiches scraped: 41/41  (+1 documented placeholder for SOMELEC)
+
+[01.01] creation_entreprise/creation                  id=  790  ok        Création d'Entreprise
+[01.02] creation_entreprise/enregistrement_onmt       id=  691  ok        Procédure d’enregistrement des entreprises Et d’immatriculation de leurs personnels a l’ ONMT
+[01.03] creation_entreprise/declaration_fiscale       id= 1676  ok        Déclaration fiscale des entreprises
+[02.01] carte_nationale_identite/premiere_fois             id= 1119  ok        Demande d'obtention de carte d’identité pour la première fois (Titres sécurisés)
+[02.02] carte_nationale_identite/renouvellement            id= 1123  ok        Demande de renouvellement d'une carte d’identité (Titres sécurisés)
+[02.03] carte_nationale_identite/perte                     id= 1120  ok        Demande de remplacement d'une carte d’identité en cas de perte  (Titres sécurisés)
+[02.04] carte_nationale_identite/abimee                    id= 1121  ok        Demande de remplacement d'une carte d'identité abîmée  (Titres sécurisés)
+[02.05] carte_nationale_identite/rectification             id= 1122  ok        Demande de remplacement d'une carte d’identité pour rectification (Titres sécurisés)
+[02.06] carte_nationale_identite/validite_moins_6_mois     id= 1580  ok        Demande de remplacement d'une  carte d’identité d'une validité inférieure à 6 mois (Titres sécurisés)
+[03.01] casier_judiciaire/bulletin_n3               id=  268  ok        Bulletin n°3 du casier judiciaire
+[04.01] carte_grise/vehicule_neuf             id=  290  ok        Carte grise (Pour les Immatriculations des véhicules neufs)
+[04.02] carte_grise/occasion_etranger         id=  292  ok        Carte grise (Pour les véhicules d’occasion précédemment immatriculé à l’Etranger)
+[04.03] carte_grise/vehicule_reforme          id=  294  ok        Carte grise (Pour les véhicules reformés)
+[04.04] carte_grise/mutation                  id=  296  ok        Mutation de carte grise
+[04.05] carte_grise/renouvellement            id=  309  ok        Renouvellement de carte grise
+[04.06] carte_grise/duplicata                 id=  312  ok        Duplicata carte grise
+[05] connexion_somelec: placeholder — SOMELEC electricity-connection procedures are not published on procedures.gov.mr…
+[06.01] permis_de_conduire/obtention                 id=  316  ok        Permis de conduire
+[06.02] permis_de_conduire/renouvellement            id=  324  ok        Renouvellement de permis de conduire
+[06.03] permis_de_conduire/duplicata                 id=  323  ok        Duplicata de permis de conduire
+[06.04] permis_de_conduire/authenticite              id=  325  ok        Authenticité de Permis de Conduire
+[06.05] permis_de_conduire/transformation_etranger   id=  326  ok        Transformation de Permis de Conduire Etranger
+[06.06] permis_de_conduire/retrait_restitution       id=  752  ok        Retrait et Restitution de Permis de conduire
+[07.01] inscription_universite_nouakchott/bourse_inscription_libre  id=   39  ok        Demandes: de bourse, d’attestation de boursier,  d’attestation de non boursier,  d’inscription libre
+[07.02] inscription_universite_nouakchott/attestation_fin_etudes    id=   48  ok        Attestation de fin d’études
+[07.03] inscription_universite_nouakchott/legalisation_diplomes     id=   51  ok        Légalisation des diplômes
+[07.04] inscription_universite_nouakchott/transferts_etudiants      id=  925  ok        Transferts  d'étudiants d'un Ets. vers un autre
+[08.01] extrait_de_naissance/certificat_naissance      id= 1628  ok        Certificat de naissance
+[08.02] extrait_de_naissance/declaration_naissance     id= 1704  ok        Declaration de naissance
+[08.03] extrait_de_naissance/statut_personnel          id=  264  ok        Statut personnel ( naissance ; décès ; mariage ; divorce ; héritage ; autorisation parentale…)
+[08.04] extrait_de_naissance/extrait_chn               id= 1503  ok        Extrait de naissance (Le Centre Hospitalier National )
+[08.05] extrait_de_naissance/naissance_etranger        id= 1193  ok        Déclaration de naissance d’un enfant à l’étranger dans un pays où il existe un centre d’accueil des citoyens (enregistrement des événements d’état civil à l’étranger)
+[08.06] extrait_de_naissance/approbation_acte_etranger id= 1204  ok        Approbation d’un acte de naissance délivré à l’étranger (procédures d’approbation des actes d’état civil à l’étranger)
+[08.07] extrait_de_naissance/reconnaissance            id=  955  ok        Autorisation de Reconnaissance
+[09.01] passeport/premiere_fois             id= 1588  ok        Demande d'obtention de passeport  pour la première fois (Titres sécurisés)
+[09.02] passeport/renouvellement            id= 1589  ok        Demande de renouvellement de passeport (Titres sécurisés)
+[09.03] passeport/perte                     id= 1585  ok        Demande de remplacement d'un passeport en cas de perte  (Titres sécurisés)
+[09.04] passeport/abime                     id= 1583  ok        Demande de remplacement d'un passeport abîmé  (Titres sécurisés)
+[09.05] passeport/rectification             id= 1586  ok        Demande de remplacement d'un passeport pour rectification (Titres sécurisés)
+[09.06] passeport/residents_etranger        id=  226  ok        Passeports des mauritaniens résidents à l’étranger
+[09.07] passeport/valise_diplomatique       id= 1216  ok        Envoi d'un passeport par la valise diplomatique
+[10.01] registre_de_commerce/inscription               id=  265  ok        Registre de Commerce

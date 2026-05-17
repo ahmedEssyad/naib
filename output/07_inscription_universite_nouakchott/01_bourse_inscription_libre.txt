@@ -1,0 +1,16 @@
+TOPIC: inscription universite nouakchott
+VARIANT: bourse_inscription_libre
+PROCEDURE: Demandes: de bourse, d’attestation de boursier, d’attestation de non boursier, d’inscription libre
+PROCEDURE_AR: Demandes: de bourse, d’attestation de boursier, d’attestation de non boursier, d’inscription libre  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/39 sont identiques au français)
+DOCUMENTS_REQUIS: Une demande manuscrite, Acte de naissance, Certificat Nationalité, Photocopie légalisée CIN, Photocopie légalisée des diplômes, Certificat médical, Casier judiciaire.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Un mois
+BUREAU_RESPONSABLE: Ministère de l’Enseignement Supérieur et de la Recherche Scientifique | Réception : Secrétariat | Traitement : Service del'Orientation et des Bourses | Délivrance : DESUP
+FRAIS: non spécifier
+USAGERS: Étudiants
+CONTACT: - 36441886 / 36393904
+- contact@mesrs.gov.mr
+BASES_JURIDIQUES: Décret Nº 13e -Plan financier 0.205 du 1/11/2005
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/39
+DATE_SCRAPED: 2026-05-17

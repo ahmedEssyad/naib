@@ -1,0 +1,16 @@
+TOPIC: permis de conduire
+VARIANT: authenticite
+PROCEDURE: Authenticité de Permis de Conduire
+PROCEDURE_AR: Authenticité de Permis de Conduire  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/325 sont identiques au français)
+DOCUMENTS_REQUIS: - Une demande;
+- Photocopie du Permis de Conduire.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: 48 Heures
+BUREAU_RESPONSABLE: Direction de l'Organisation et de la Documentation / Division Permis de Conduire | Réception : Bureau d’accueil et de réception | Traitement : Direction des transports terrestres / Service Permis de Conduire | Délivrance : Direction des transports terrestres / Service Permis de Conduire
+FRAIS: Néant
+USAGERS: Particuliers
+CONTACT: contact@transport.gov.mr
+BASES_JURIDIQUES: 
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/325
+DATE_SCRAPED: 2026-05-17

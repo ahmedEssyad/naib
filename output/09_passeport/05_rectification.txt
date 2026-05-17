@@ -1,0 +1,15 @@
+TOPIC: passeport
+VARIANT: rectification
+PROCEDURE: Demande de remplacement d'un passeport pour rectification (Titres sécurisés)
+PROCEDURE_AR: Demande de remplacement d'un passeport pour rectification (Titres sécurisés)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1586 sont identiques au français)
+DOCUMENTS_REQUIS: Présenter le numéro national de l'intéressé Il y a une erreur dans l’écriture des données : elles ne concernent que les données qui figurent dans le passeport, à savoir le prénom et le nom de famille, le lieu de naissance, la date de naissance et le sexe. Le nom de famille du mineur ne correspond pas à celui de son père, sauf s’il dispose d’un document biométrique. Le lieu de naissance est un pays, et non pas une ville. La date de naissance actuelle diffère de la date de naissance figurant dans le numéro de référence national, sauf si la date mentionnée correspond à la carte d’identité, au formulaire de 1998 ou aux informations stockées dans l’ancienne demande d’état civil. La date de naissance actuelle diffère de la date de naissance figurant sur l’ancienne carte d’identité lorsqu’il s’agit du seul document sur lequel l'enrôlement a été fait. L'existence d'une erreur aux données relatives au sexe. Ces six obstacles sont évités en vérifiant l’intégrité de l’écriture de ces informations dans les deux langues avant d’émettre l’ordre de recette, en examinant les informations enregistrées dans le registre de la population en appliquant la révision, puis en demandant la correction appropriée avant de demander le passeport.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés | Réception : Centre d'accueil des citoyens. | Délivrance : Centre d'accueil des citoyens.
+FRAIS: 3000 MRU pour le passeport ordinaire et 10 000 MRU pour un passeport de 64 pages.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1586
+DATE_SCRAPED: 2026-05-17

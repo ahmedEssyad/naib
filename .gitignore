@@ -1,6 +1,6 @@
-# scraping artefacts (regenerable from scripts)
-output/
+# vector store (regenerable from scripts)
 chroma_db/
+qdrant_storage/
 
 # secrets
 .env

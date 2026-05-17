@@ -1,0 +1,15 @@
+TOPIC: passeport
+VARIANT: abime
+PROCEDURE: Demande de remplacement d'un passeport abîmé (Titres sécurisés)
+PROCEDURE_AR: Demande de remplacement d'un passeport abîmé (Titres sécurisés)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1583 sont identiques au français)
+DOCUMENTS_REQUIS: En cas de passeport abîmé, présenter le numéro national d'identification de l'intéressé.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés | Réception : Centre d'accueil des citoyens. | Délivrance : Centre d'accueil des citoyens.
+FRAIS: Frais payables pour le passeport ordinaire : pour la première fois 4.000 MRU, pour la deuxième fois 5.500 MRU, pour la troisième fois 7.000 MRU, pour la quatrième fois 10.000 MRU.-Frais payables pour le passeport VIP : pour la première fois 12.000 MRU, pour la deuxième fois 15.000 MRU, pour la troisième fois 17.500 MRU, pour la quatrième fois 20.000 MRU.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: 
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1583
+DATE_SCRAPED: 2026-05-17

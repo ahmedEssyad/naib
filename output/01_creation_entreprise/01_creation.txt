@@ -1,0 +1,23 @@
+TOPIC: creation entreprise
+VARIANT: creation
+PROCEDURE: Création d'Entreprise
+PROCEDURE_AR: Création d'Entreprise  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/790 sont identiques au français)
+DOCUMENTS_REQUIS: Le dossier de demande de création d'une entreprise diffère d'une forme juridique à l'autre. Pour plus de détails, prière de consulter le site web: www.apim.gov.mr
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: 48 Heures
+BUREAU_RESPONSABLE: Guichet Unique - Agence de Promotion des Investissements en Mauritanie | Réception : Guichet Unique | Traitement : Guichet Unique | Délivrance : Guichet Unique
+FRAIS: Service Gratuit. A Payer uniquement les Frais de Greffe du Tribunal de commerce (200 MRU pour les personnes physiques et 500 MRU pour les personnes morales)
+USAGERS: Particuliers, Professionnels
+CONTACT: Tél: 38 27 36 82
+Email: info-apim@apim.gov.mr
+Site web: www.apim.gov.mr
+BASES_JURIDIQUES: - Décret n°2022-169 du 17 Novembre 2022, abrogeant et remplaçant le décret n°2014-076 du 29 mai 2014, portant création du formulaire unique de demande de création d’entreprises
+- Arrêté n°1487/MJ/2021 du 13 décembre 2021, définissant les formulaires des demandes d’inscription au registre local du commerce et la déclaration du bénéficiaire effectif et les formulaires des demandes d’inscription et de recherche dans le Registre des sûretés Mobilières et la liste des actes et pièces justificatifs devant accompagner ces formulaires
+- Décret n°2021-033 du 11 mars 2021, relatif au registre du Commerce et des sûretés Mobilières
+- Loi n°2021-005 en date du 10 Février 2021, modifiant, complétant et abrogeant certaines dispositions de la loi n° 2000 - 005 du 18 janvier 2000, modifiée, portant Code du Commerce
+- Loi n°2019‐018 du 29Avril 2019 portant Code Général des Impôts (Dispositions applicables depuis le 1er janvier 2020)
+- Loi n°2021-007 du 22 Février 2021, modifiant certaines dispositions de la Loi n°67-039 du 03 Février 1967, instituant un régime de Sécurité Sociale
+- Arrêté n°1974-116 du 17 septembre 1974 déterminant les modalités d’affiliation des employeurs et le versement des cotisations à la Caisse Nationale de Sécurité Sociale.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/790
+DATE_SCRAPED: 2026-05-17

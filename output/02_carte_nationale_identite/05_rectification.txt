@@ -1,0 +1,20 @@
+TOPIC: carte nationale identite
+VARIANT: rectification
+PROCEDURE: Demande de remplacement d'une carte d’identité pour rectification (Titres sécurisés)
+PROCEDURE_AR: Demande de remplacement d'une carte d’identité pour rectification (Titres sécurisés)  (le portail n'a pas de titre arabe distinct ; les valeurs sur /ar/procedure/1122 sont identiques au français)
+DOCUMENTS_REQUIS: 
+  - L'existence d'une erreur dans l’écriture des données : elle ne concerne que les données qui figurent sur la carte, à savoir le prénom, le prénom du père, le nom de famille, la date de naissance, le lieu de naissance et le sexe de l'intéressé.
+  - inconformité du nom de famille pour ceux qui n’ont pas de document biométrique contenant le nom de famille actuel.
+  - Le lieu de naissance est un pays et non une ville.
+  - La date de naissance actuelle diffère de la date de naissance indiquée dans le numéro de référence national.
+  - L'existence d’une erreur aux données relatives au sexe.
+ETAPES:
+  (le portail procedures.gov.mr ne publie pas d'étapes pour cette procédure ; voir DOCUMENTS_REQUIS et BUREAU_RESPONSABLE pour le parcours réel)
+DELAI: Non spécifié
+BUREAU_RESPONSABLE: Agence Nationale du Registre de la Population et des Titres Sécurisés
+FRAIS: 250 MRU , puis 400 MRU la deuxième fois, puis 700 MRU la troisième fois, puis 1000 MRU la quatrième fois.
+USAGERS: Citoyens
+CONTACT: 
+BASES_JURIDIQUES: Loi n° 2011-003 du 12-01-2011 portant le Code de l’état civil.
+SOURCE_URL: https://procedures.gov.mr/fr/procedure/1122
+DATE_SCRAPED: 2026-05-17

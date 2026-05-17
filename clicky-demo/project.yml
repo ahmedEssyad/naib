@@ -1,0 +1,32 @@
+name: ClickyDemo
+options:
+  bundleIdPrefix: com.clicky.demo
+  deploymentTarget:
+    iOS: "17.0"
+  createIntermediateGroups: true
+
+settings:
+  base:
+    SWIFT_VERSION: "5.9"
+    IPHONEOS_DEPLOYMENT_TARGET: "17.0"
+    ENABLE_USER_SCRIPT_SANDBOXING: NO
+
+packages:
+  ClickySDK:
+    path: ClickySDK
+
+targets:
+  ClickyDemo:
+    type: application
+    platform: iOS
+    sources:
+      - path: ClickyDemo
+    dependencies:
+      - package: ClickySDK
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.clicky.demo.ClickyDemo
+        INFOPLIST_FILE: ClickyDemo/Info.plist
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: NO
+        CODE_SIGN_STYLE: Automatic

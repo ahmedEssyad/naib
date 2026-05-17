@@ -1,6 +1,9 @@
-# scraping artefacts (regenerable from scripts)
+# broad scrape (out of scope for the creation-d'entreprise pilot)
 output/
+
+# vector store (regenerable from scripts)
 chroma_db/
+qdrant_storage/
 
 # secrets
 .env
